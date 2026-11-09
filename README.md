@@ -1,219 +1,305 @@
-# 👨‍💻 SYSTEM ONLINE — DEVELOPER PROFILE
+ <div align="center">
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=LAURA%20POSSAS&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050816,50:101B35,100:00E5FF&text=INITIALIZING%20SYSTEM...&fontColor=00E5FF&fontSize=35&fontAlignY=45&animation=fadeIn&stroke=00E5FF&strokeWidth=1" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hello%2C+World!+I'm+a+Python+Developer;Computer+Networks+%7C+Programming;Building+ideas+through+code;Exploring+the+future+of+technology..." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=INICIANDO+SISTEMA...;ESTUDANTE+DE+TECNOLOGIA;DESENVOLVEDORA+PYTHON;REDES+DE+COMPUTADORES;LINUX+%7C+PYTHON+%7C+CISCO;TRANSFORMANDO+IDEIAS+EM+SOLUCOES"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&color=101B35&labelColor=050816)
-![GitHub User's stars](https://img.shields.io/github/stars/SEU_USUARIO?style=for-the-badge&color=101B35&labelColor=050816)
+<img src="https://komarev.com/ghpvc/?username=LauraPossas&style=for-the-badge&color=8B5CF6&label=VISUALIZACOES+DO+PERFIL"/>
 
 </div>
 
 ---
 
-## `01. ABOUT_ME`
+## 🤖 SYSTEM INTERFACE
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+```bash
+╭────────────────────────────────────╮
+│       LAURA SYSTEM v3.0            │
+╰────────────────────────────────────╯
 
-```python
-class Developer:
+Inicializando sistema...
 
-    def __init__(self):
-        self.name = "SEU NOME"
-        self.role = "Python Developer"
-        self.education = "Computer Networks"
-        self.institution = "SENAI"
-        self.main_language = "Python"
+████████████████████ 100%
 
-    @property
-    def interests(self):
-        return [
-            "Software Development",
-            "Computer Networks",
-            "Cybersecurity",
-            "Automation",
-            "Technology"
-        ]
+✔ Desenvolvedora identificada
+✔ Python carregado
+✔ Conhecimentos em redes detectados
+✔ Ambiente Linux inicializado
+✔ Curiosidade tecnológica ativada
+✔ Aprendizado contínuo habilitado
 
-    def current_focus(self):
-        return "Learning, building and evolving."
-
-developer = Developer()
+STATUS: ONLINE 🚀
 ```
 
-Olá! Sou estudante da área de tecnologia, com formação em andamento na área de Redes de Computadores pelo **SENAI** e foco no desenvolvimento com Python.
+---
 
-Tenho interesse em compreender como a tecnologia funciona em diferentes camadas, desde a infraestrutura de redes até o desenvolvimento de aplicações e sistemas.
+## 👩‍💻 Sobre mim
 
-Atualmente, estou expandindo meus conhecimentos em programação, automação, Linux e infraestrutura de TI, buscando transformar conhecimento em projetos práticos.
+```python
+class Desenvolvedora:
 
-**My mindset:** Learn continuously. Build intelligently. Think beyond limits.
+    def __init__(self):
+        self.nome = "Laura Possas"
+        self.area = "Desenvolvimento de Software"
+        self.formacao = "Redes de Computadores - SENAI"
+        self.linguagem_principal = "Python"
+        self.localizacao = "Brasil 🇧🇷"
+
+    foco = [
+        "Desenvolvimento com Python",
+        "Redes de Computadores",
+        "Infraestrutura de TI",
+        "Linux",
+        "Automação",
+        "Desenvolvimento de Sistemas"
+    ]
+
+    ferramentas = [
+        "VS Code",
+        "Git",
+        "GitHub",
+        "Cisco Packet Tracer",
+        "Debian Linux"
+    ]
+
+    objetivo = "Transformar conhecimento em soluções."
+
+laura = Desenvolvedora()
+```
+
+Olá! Sou estudante da área de tecnologia, com formação em **Redes de Computadores pelo SENAI** e interesse crescente em desenvolvimento de software.
+
+Minha trajetória começou pelo universo da infraestrutura e das redes, onde desenvolvi conhecimentos sobre protocolos, endereçamento IP, VLANs, roteamento e administração de sistemas.
+
+Atualmente, tenho direcionado meus estudos para o desenvolvimento com **Python**, explorando lógica de programação, automação e criação de aplicações.
+
+Gosto de entender como as tecnologias se conectam, desde a comunicação entre dispositivos até o funcionamento de sistemas e aplicações.
+
+> "A tecnologia conecta ideias. A programação transforma essas ideias em realidade."
 
 ---
 
-## `02. TECH_STACK`
+## 💜 Minha trajetória
 
-### Languages & Development
+Minha experiência na área de tecnologia envolve tanto infraestrutura quanto desenvolvimento.
+
+Durante minha formação em Redes de Computadores pelo SENAI, tive contato com tecnologias e ferramentas utilizadas no mercado, desenvolvendo projetos práticos de configuração de redes, topologias, segmentação por VLANs e roteamento utilizando Cisco Packet Tracer.
+
+Também venho aprofundando meus conhecimentos em Linux, especialmente no ambiente Debian, explorando comandos, gerenciamento de sistemas e configurações de rede.
+
+No desenvolvimento, meu principal interesse está em Python, linguagem que utilizo para estudar programação, desenvolver soluções e ampliar minha capacidade de construir aplicações.
+
+Meu objetivo é consolidar minha base em desenvolvimento de software e avançar na área de Ciência da Computação.
+
+---
+
+## ⚡ Tecnologias e conhecimentos
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql&theme=dark" />
+### 💻 Linguagens de programação
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,html,css&theme=dark&perline=7"/>
 
-### Infrastructure & Networking
+### 🌐 Redes e infraestrutura
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,bash,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,bash,windows&theme=dark&perline=7"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Networking-00E5FF?style=for-the-badge&logo=cloudflare&logoColor=black"/>
-<img src="https://img.shields.io/badge/TCP%2FIP-101B35?style=for-the-badge&logo=protonvpn&logoColor=white"/>
+<img src="https://img.shields.io/badge/CISCO-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VLAN-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SSH-050505?style=for-the-badge&logo=openssh&logoColor=white"/>
 
-</div>
+### 🛠️ Ferramentas e ambientes
 
-### Tools & Environment
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,pycharm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark&perline=7"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/CCNA_Studies-1B2838?style=for-the-badge&logo=cisco&logoColor=00E5FF"/>
 
 </div>
 
 ---
 
-## `03. FEATURED_PROJECTS`
+## 🧩 Desenvolvimento + Infraestrutura
 
-<div align="center">
+Gosto de explorar diferentes áreas da tecnologia e compreender como elas trabalham juntas.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🐍 Python Development
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_REPOSITORIO_PYTHON&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=00E5FF" width="100%"/>
-</a>
-
-Projetos e experimentos desenvolvidos em Python, explorando lógica de programação, automação e desenvolvimento de aplicações.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Computer Networks
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_REPOSITORIO_REDES&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=00E5FF" width="100%"/>
-</a>
-
-Laboratórios de redes, topologias, VLANs, roteamento e infraestrutura desenvolvidos durante os estudos de Redes de Computadores.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-> 💡 Substitua os nomes dos repositórios acima pelos projetos reais publicados no seu GitHub.
-
----
-
-## `04. CURRENT_MISSION`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-00E5FF?style=for-the-badge&logo=statuspage&logoColor=black"/>
-
-</div>
-
-```bash
-┌──[ DEVELOPER@JARVIS ]──[ ~/current_mission ]
-│
-├── [IN PROGRESS] Python Development
-├── [IN PROGRESS] Computer Networks
-├── [IN PROGRESS] CCNA Studies
-├── [EXPLORING]   Linux & System Administration
-├── [EXPLORING]   Automation & Scripting
-├── [FUTURE]      Software Engineering
-│
-└── STATUS: CONSTANTLY EVOLVING_
+```text
+              💡 IDEIA
+                 |
+                 v
+        🧠 LÓGICA DE PROGRAMAÇÃO
+                 |
+                 v
+          🐍 DESENVOLVIMENTO
+                 |
+                 v
+          ⚙️ IMPLEMENTAÇÃO
+                 |
+                 v
+         🌐 INFRAESTRUTURA
+                 |
+                 v
+           🧪 TESTES
+                 |
+                 v
+          🚀 SOLUÇÃO FINAL
 ```
 
-**Main objectives:**
+### 🛠️ Ferramentas que utilizo
 
-- Desenvolver aplicações e projetos utilizando Python.
-- Aprimorar conhecimentos em lógica de programação e algoritmos.
-- Evoluir em redes de computadores e infraestrutura.
-- Explorar automação e administração de sistemas Linux.
-- Construir soluções que conectem software e infraestrutura.
+- 🐍 **Python:** desenvolvimento e lógica de programação.
+- 🌐 **Cisco Packet Tracer:** simulação e configuração de redes.
+- 🐧 **Debian Linux:** comandos, administração e gerenciamento de sistemas.
+- 🔧 **Git e GitHub:** versionamento e organização de projetos.
+- 💻 **VS Code:** ambiente de desenvolvimento.
+- 🔐 **Linux iptables:** estudos de filtragem e gerenciamento de pacotes.
 
 ---
 
-## `05. GITHUB_ANALYTICS`
+## 🧠 O que estou aprendendo
+
+```bash
+╭────────────────────────────────────╮
+│       CARREGANDO APRENDIZADO       │
+╰────────────────────────────────────╯
+
+> Python & Desenvolvimento
+
+[████████░░] Evoluindo continuamente
+
+> Redes de Computadores
+
+[█████████░] Aprofundando conhecimentos
+
+> Linux & Administração de Sistemas
+
+[████████░░] Explorando ferramentas
+
+> Cisco & CCNA
+
+[███████░░░] Em desenvolvimento
+
+> Desenvolvimento Web
+
+[██████░░░░] Expandindo conhecimentos
+
+> Engenharia de Software
+
+[██████░░░░] Próxima etapa
+
+STATUS:
+APRENDER → PRATICAR → DESENVOLVER → EVOLUIR
+```
+
+---
+
+## 🌎 Além do código
+
+A tecnologia é uma área que me permite explorar diferentes possibilidades e desenvolver novas habilidades.
+
+Também tenho interesse em:
+
+```text
+💻 Desenvolvimento de Software
+🌐 Redes e Infraestrutura
+🐍 Programação em Python
+🔐 Segurança da Informação
+🐧 Sistemas Linux
+🤖 Inteligência Artificial
+📚 Ciência da Computação
+🚀 Inovação e novas tecnologias
+```
+
+Acredito que o aprendizado constante e a prática são fundamentais para construir uma carreira sólida na tecnologia.
+
+---
+
+## 🎯 Próximos passos
+
+```bash
+╭────────────────────────────────────╮
+│          MINHA EVOLUÇÃO             │
+╰────────────────────────────────────╯
+
+[██████████] Consolidar conhecimentos em Python
+
+[█████████░] Aprofundar Redes de Computadores
+
+[████████░░] Evoluir em Linux
+
+[████████░░] Desenvolver projetos próprios
+
+[███████░░░] Aprofundar conhecimentos em Backend
+
+[███████░░░] Explorar automação e APIs
+
+[██████░░░░] Avançar em Ciência da Computação
+
+PRÓXIMO NÍVEL:
+DESENVOLVIMENTO DE SOFTWARE 🚀
+```
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LauraPossas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=C9D1D9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraPossas&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
+<img width="80%" src="https://streak-stats.demolab.com?user=LauraPossas&theme=midnight-purple&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=050816&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20GRAPH" width="100%"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LauraPossas&bg_color=050505&color=C084FC&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=ATIVIDADE%20NO%20GITHUB"/>
 
 </div>
 
 ---
 
-## `06. GITHUB_TROPHIES`
+## 🏆 Conquistas GitHub
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=LauraPossas&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 
 </div>
 
 ---
 
-## `07. CONTRIBUTION_MATRIX`
+## 🐍 Minha atividade no GitHub
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/LauraPossas/LauraPossas/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação Snake das contribuições"/>
 
 </div>
 
 ---
 
-## `08. CONNECT_WITH_ME`
+## 🌎 Vamos nos conectar?
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/LauraPossas">
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Follow-101B35?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/laura-possas-55a509337">
+<img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -222,12 +308,14 @@ Laboratórios de redes, topologias, VLANs, roteamento e infraestrutura desenvolv
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:101B35,100:050816&height=100&section=footer"/>
+### 💜 "Transformando conhecimento em soluções."
 
-### `SYSTEM STATUS: ALWAYS LEARNING`
+<img src="https://komarev.com/ghpvc/?username=LauraPossas&style=for-the-badge&color=8B5CF6&label=VISUALIZACOES+DO+PERFIL"/>
 
-**"The future is built one line of code at a time."**
+<br/>
 
-<sub>Designed with 💙, Python and a futuristic mindset.</sub>
+<sub>Desenvolvido com curiosidade, tecnologia e dedicação. 🚀</sub>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:6d28d9,100:a855f7"/>
